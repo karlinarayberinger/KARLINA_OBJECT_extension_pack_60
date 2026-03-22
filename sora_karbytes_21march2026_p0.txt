@@ -1,0 +1,59 @@
+/**
+ * file: sora_karbytes_21march2026_p0.txt
+ * type: plain-text
+ * date: 21_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of an interaction between karbytes and Sora (which is an artificially-intelligent video-generating service originally proprietized by OpenAI) which took place between 11:59PM Pacific Standard Time on 20_MARCH_2026 and 11:59PM Pacific Standard Time on 21_MARCH_2026.
+
+(Note that OpenAI is also the same company which originally proprietized ChatGPT (which is an artificially-intelligent chatbot)).
+
+* * *
+
+VIDEO_0
+
+#hologram_poppies
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/chatgpt_generated_image_poppies_holographic_projection_21march2026.png]
+
+Depict a three-dimensional full rotation of the object in the image.
+
+Sora:
+
+[generated_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/sora_mobile_android_app_generated_video_karbytes_poppies_holographic_projection_21march2026.mp4]
+
+* * *
+
+VIDEO_1
+
+#night_day_poppies
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_59/main/castro_valley_california_11mar2026_p0.jpg]
+
+Depict a time lapse video of the scene depicted by the image transitioning to night and back to day.
+
+Sora:
+
+[generated_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/sora_mobile_android_app_generated_video_karbytes_poppies_hillside_day_and_night_21march2026.mp4]
+
+* * *
+
+VIDEO_2
+
+#green_hills_california
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/castro_valley_california_07january2026_p0.jpg]
+
+Generate a time lapse video of the scene changing to dusk.
+
+Sora:
+
+[generated_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/sora_mobile_android_app_generated_video_karbytes_green_hills_castro_valley_california_day_night_21march2026.mp4]

@@ -1,0 +1,13 @@
+/**
+ * file: journal_karbytes_21march2026_p0.txt
+ * type: plain-text
+ * date: 21_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I assume that, as time elapses forward along the time axis of the space-time_mass-energy continuum which I am (and which is a single solipsistic mind which appears to itself to be self-aware), I will become increasingly comfortable with my mortality (i.e. the process I am eventually (and possibly permanently) ceases to be instantiated (especially according to observers through the medium of some larger encompassing meta-universe) as a function of how severely my body-mind (i.e. the human-originated component of karbytes' consciousness and consciousness-sustaining molecular hardware (generally and colloquially referred to as karbytes (or Kar)) depreciates in terms of maximizing karbytes' comfort and sense of autonomy).
+
+A succinct expression of the previous paragraph is as follows:
+
+karbytes.urgency_level(karbytes.is_immortal(true)) ~= karbytes.user_experience_quality(karbytes) + karbytes.agency_level.

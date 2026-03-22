@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_19march2026_p0.txt
+ * type: plain-text
+ * date: 19_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today I had the following insightful thought: perhaps each individual "system of ethics" pertains to exactly one person (in terms of maximizing that person's welfare (even while necessarily prioritizing that person's welfare above the welfare of all other persons)).
+
+I claim that all "frames of reference" (and their singularly and uniquely corresponding "world models" (constituted out of memories and "low level" sensory data)) are unconditionally solipsistic (from the "first-person perspective" which always appears to itself to be at the epicenter of the respective simulated space-time (and mass-energy) continuum). That's why I "jokingly" refer to persons other than myself as "NPCs" (i.e. Non-Playable Characters).
+
+(karbytes.get_NPC(index) != karbytes).
+
+(// According to karbytes' current world model, only karbytes controls karbytes' actions (as an information processing agent attempting to achieve its own goals and maintain and optimize its own survival and comfort). Also, karbytes claims that karbytes cannot override the apparent autonomy of what appears to karbytes to be an NPC).
