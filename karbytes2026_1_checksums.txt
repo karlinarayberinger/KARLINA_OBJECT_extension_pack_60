@@ -6,7 +6,7 @@ This Python program prints the SHA-256 checksum of each file inside of a particu
 
 Directory: karbytes2026_1
 
-file_0: KARLINA_OBJECT_extension_pack_60-main_23march2026.zip // SHA-256: 6a629f0484e82aa0a614eda65b869e44ff8b44197553a1d8734d47ce74bfb9f1
+file_0: KARLINA_OBJECT_extension_pack_60-main_23march2026.zip // SHA-256: 3bb83b32df159149938f6dc476e680477b65fb52f9d1bbffdb64e2a51f441229
 
 file_1: KARLINA_OBJECT_extension_pack_52-main.zip // SHA-256: 8cd535597709a786145ddc40600afdc34cf4f1bf61941e178daf9b5300c80558
 
