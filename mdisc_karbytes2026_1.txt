@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2026_1.txt
  * type: plain-text
- * date: 25_MARCH_2026
+ * date: 26_MARCH_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 22 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_1: // folder contains exactly 36 files (approximately 20649.74 megabytes total).
+karbytes2026_1: // folder contains exactly 36 files (approximately 20664.16 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
@@ -400,7 +400,7 @@ karbytes2026_1: // folder contains exactly 36 files (approximately 20649.74 mega
 
     - zip_file_5: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_25march2026.zip // 755.4 kilobytes
+    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_26march2026.zip // 755.4 kilobytes
 
     - zip_file_7: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_05january2026.zip // 288.0 megabytes
 
@@ -440,13 +440,13 @@ karbytes2026_1: // folder contains exactly 36 files (approximately 20649.74 mega
 
     - zip_file_25: KARLINA_OBJECT_extension_pack_59-main.zip // 281.0 megabytes
 
-      - zip_file_26: KARLINA_OBJECT_extension_pack_60-main_25march2026.zip // 123.5 megabytes
+      - zip_file_26: KARLINA_OBJECT_extension_pack_60-main_26march2026.zip // 130.6 megabytes
 
     - zip_file_27: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_28: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_29: karbytes_wayback_machine_saves_precision_batches_extension_1-main_25march2026.zip // 80.3 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_29: karbytes_wayback_machine_saves_precision_batches_extension_1-main_26march2026.zip // 80.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_30: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
@@ -458,7 +458,7 @@ karbytes2026_1: // folder contains exactly 36 files (approximately 20649.74 mega
 
     - zip_file_34: karbytes_basement_50-main.zip // 33.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_35: karbytes_basement_51-main.zip // 53.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_35: karbytes_basement_51-main.zip // 61.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
