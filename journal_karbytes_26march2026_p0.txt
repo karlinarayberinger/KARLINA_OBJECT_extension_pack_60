@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_26march2026_p0.txt
+ * type: plain-text
+ * date: 26_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+If the universe (which I appear to myself to be living inside of) is ultimately reducible to a "highly detailed" software simulation (i.e. instantiated as computational process (with or without "underlying" hardware)), then perhaps it is possible for me to literally teleport or exchange information instantaneously across some distance through "bypassing" the apparent physical rules "governing" that universe (and which appear to me to be "enforcing exactly one" causal flow direction (i.e. determinism) in terms of how each noumenon and its unique phenomenal counterpart "flickers" between two definite states).
+
+reference_web_pages:
+
+https://karlinaobject.wordpress.com/nature/
+
+https://karlinaobject.wordpress.com/multiverse/
+
+https://karlinaobject.wordpress.com/causality/
+
+https://karlinaobject.wordpress.com/agency/
+
+https://karlinaobject.wordpress.com/numbers/
+
+https://karlinaobject.wordpress.com/knowledge/
