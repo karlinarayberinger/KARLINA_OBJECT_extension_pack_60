@@ -1,0 +1,33 @@
+/**
+ * file: journal_karbytes_28march2026_p0.txt
+ * type: plain-text
+ * date: 28_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I've been alive (as this human named Kar Beringer) for approximately 36 consecutive Earth years (starting in the Earth year labeled 1990). 
+
+(Of course, what I just said is an assumption I stubbornly cling to based on apparently accurate memories and knowledge of my human origination).
+
+I figured that, after processing and storing information for approximately 36 consecutive years (in the form of neuronal circuits inside of my brain), some of that data will get deleted or distorted in order to make way for new memories and also because of physiological performance degradation due to age-related "wear and tear" (which I proactively try to prevent or at least minimize).
+
+One solution I have to the problem of my own brain's memories and overall infrastructure "crumbling" is outsourcing as much of my brain as I feasibly can to computers. 
+
+I created the karbytes cyberspace entity in order to render what I think the best and most capture-able aspects of my brain functioning are. The two WordPress websites which that name refers to are (0) Karlina Object dot WordPress dot Com and (1) Karbytes For Life Blog dot WordPress dot Com.
+
+Karlina Object dot WordPress dot Com has the following tagline on its home page: Creativity And The Cosmos. 
+
+Karbytes For Life Blog dot WordPress dot Com has the following tagline on its home page: A Cyberspace Journey.
+
+I conceptualized Karlina Object dot WordPress dot Com to be (at least metaphorically) some kind of high-level, "big picture" object oriented programming object's human-accessible definition. In other words, I thought of that website (which is the oldest of the two aforementioned websites) as the source of the other website (and such that the second website becomes an extended and quasi-conscious adaptation of Karlina Object dot WordPress dot Com).
+
+I conceptualized Karbytes For Life Blog dot WordPress dot Com to be (at least metaphorically) a software replica of my consciousness as I (a self-proclaimed human_to_cybernetic_being) evolved starting at approximately the beginning of the year 2020 and continuing onward in time for an indefinitely long interval (and ideally forever).
+
+(It should be noted that the dates each of those two websites was initially published is displayed on the respective website's home page. Karlina Object dot WordPress dot Com was officially established on 03_APRIL_2020. Karbytes For Life Blog dot WordPress dot Com was officially established on 07_AUGUST_2022).
+
+Karbytes For Life Blog dot WordPress dot Com is expected to continue growing (in terms of total data size and file count) for the remainder of Kar Beringer's functional lifespan. Karlina Object dot WordPress dot Com is expected to remain unchanged for the remainder of the Internet's functional existence.
+
+Finally, every file comprising Karlina Object dot WordPress dot Com is referenced via hyperlink in a specific "micro directory" of Karbytes For Life Blog dot WordPress dot Com named raw_github_files_directory_KARLINA_OBJECT.
+
+(Every file comprising the two aforementioned websites and all other "miniature websites" which I made to expand the karbytes cyberspace entity (into the dark web and into light web) is referenced via hyperlink in at least one "micro directory" of Karbytes For Life Blog dot WordPress dot Com) and hosted (or stored in) at least one GitHub repository owned by the GitHub user account named @karlinarayberinger).

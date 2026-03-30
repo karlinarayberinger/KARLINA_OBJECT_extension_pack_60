@@ -1,0 +1,339 @@
+/**
+ * file: chatgpt_karbytes_28march2026_p0.txt
+ * type: plain-text
+ * date: 27_MARCH_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 (using Standard Text Mode) which took place between 11:59PM Pacific Standard Time on 26_MARCH_2026 and 11:59PM Pacific Standard Time on 28_MARCH_2026.
+
+* * *
+
+karbytes:
+
+Write an HTML file with inline Javascript code which randomly selects an MP3 file to play from a static list of local MP3 files for an indefinitely long time (playing one song at a time in succession).
+
+ChatGPT:
+
+[html]
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Random MP3 Player</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #111;
+      color: #eee;
+    }
+
+    button {
+      font-size: 1rem;
+      padding: 0.75rem 1rem;
+      margin-right: 0.5rem;
+      cursor: pointer;
+    }
+
+    #status {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #222;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Random MP3 Player</h1>
+  <p>
+    Click the start button to begin playing randomly selected local MP3 files
+    forever, one song at a time.
+  </p>
+
+  <button id="startButton">Start Playback</button>
+  <button id="stopButton">Stop Playback</button>
+
+  <div id="status">Not playing.</div>
+
+  <audio id="audioPlayer" controls></audio>
+
+  <script>
+    const mp3Files = [
+      "music/song1.mp3",
+      "music/song2.mp3",
+      "music/song3.mp3",
+      "music/song4.mp3"
+    ];
+
+    const audioPlayer = document.getElementById("audioPlayer");
+    const statusBox = document.getElementById("status");
+    const startButton = document.getElementById("startButton");
+    const stopButton = document.getElementById("stopButton");
+
+    let isPlaying = false;
+    let currentIndex = -1;
+
+    function getRandomIndex() {
+      if (mp3Files.length === 1) {
+        return 0;
+      }
+
+      let nextIndex;
+      do {
+        nextIndex = Math.floor(Math.random() * mp3Files.length);
+      } while (nextIndex === currentIndex);
+
+      return nextIndex;
+    }
+
+    function playNextRandomSong() {
+      if (!isPlaying || mp3Files.length === 0) {
+        statusBox.textContent = "Playback stopped.";
+        return;
+      }
+
+      currentIndex = getRandomIndex();
+      const selectedFile = mp3Files[currentIndex];
+
+      audioPlayer.src = selectedFile;
+      audioPlayer.play()
+        .then(() => {
+          statusBox.textContent = "Now playing: " + selectedFile;
+        })
+        .catch((error) => {
+          statusBox.textContent = "Playback error: " + error.message;
+        });
+    }
+
+    audioPlayer.addEventListener("ended", () => {
+      playNextRandomSong();
+    });
+
+    startButton.addEventListener("click", () => {
+      if (mp3Files.length === 0) {
+        statusBox.textContent = "No MP3 files are listed.";
+        return;
+      }
+
+      if (!isPlaying) {
+        isPlaying = true;
+        playNextRandomSong();
+      }
+    });
+
+    stopButton.addEventListener("click", () => {
+      isPlaying = false;
+      audioPlayer.pause();
+      audioPlayer.removeAttribute("src");
+      audioPlayer.load();
+      statusBox.textContent = "Playback stopped.";
+    });
+  </script>
+</body>
+</html>
+
+[end html]
+
+Replace the file paths in mp3Files with the actual relative paths to your local MP3 files.
+
+karbytes:
+
+Make a version which displays the total MP3 playtime in seconds and also displays the integer playtime count of each MP3 in the playlist.
+
+ChatGPT:
+
+[html]
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Random MP3 Player with Stats</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #111;
+      color: #eee;
+    }
+
+    button {
+      font-size: 1rem;
+      padding: 0.75rem 1rem;
+      margin-right: 0.5rem;
+      cursor: pointer;
+    }
+
+    #status, #stats {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #222;
+      border-radius: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+
+    th, td {
+      padding: 0.5rem;
+      border-bottom: 1px solid #444;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <h1>Random MP3 Player (with Playtime Stats)</h1>
+
+  <button id="startButton">Start</button>
+  <button id="stopButton">Stop</button>
+
+  <div id="status">Not playing.</div>
+
+  <div id="stats">
+    <strong>Total Playtime (seconds):</strong> <span id="totalTime">0</span>
+
+    <table>
+      <thead>
+        <tr>
+          <th>MP3 File</th>
+          <th>Play Count</th>
+        </tr>
+      </thead>
+      <tbody id="playlistStats"></tbody>
+    </table>
+  </div>
+
+  <audio id="audioPlayer" controls></audio>
+
+  <script>
+    const mp3Files = [
+      "music/song1.mp3",
+      "music/song2.mp3",
+      "music/song3.mp3",
+      "music/song4.mp3"
+    ];
+
+    const audioPlayer = document.getElementById("audioPlayer");
+    const statusBox = document.getElementById("status");
+    const totalTimeDisplay = document.getElementById("totalTime");
+    const playlistStatsBody = document.getElementById("playlistStats");
+
+    let isPlaying = false;
+    let currentIndex = -1;
+
+    let totalPlayTimeSeconds = 0;
+    let playCounts = {};
+    let lastTimeUpdate = 0;
+
+    // Initialize play counts
+    mp3Files.forEach(file => {
+      playCounts[file] = 0;
+    });
+
+    function renderStats() {
+      totalTimeDisplay.textContent = Math.floor(totalPlayTimeSeconds);
+
+      playlistStatsBody.innerHTML = "";
+      mp3Files.forEach(file => {
+        const row = document.createElement("tr");
+
+        const nameCell = document.createElement("td");
+        nameCell.textContent = file;
+
+        const countCell = document.createElement("td");
+        countCell.textContent = playCounts[file];
+
+        row.appendChild(nameCell);
+        row.appendChild(countCell);
+        playlistStatsBody.appendChild(row);
+      });
+    }
+
+    function getRandomIndex() {
+      if (mp3Files.length === 1) return 0;
+
+      let nextIndex;
+      do {
+        nextIndex = Math.floor(Math.random() * mp3Files.length);
+      } while (nextIndex === currentIndex);
+
+      return nextIndex;
+    }
+
+    function playNextRandomSong() {
+      if (!isPlaying) return;
+
+      currentIndex = getRandomIndex();
+      const file = mp3Files[currentIndex];
+
+      playCounts[file] += 1;
+      renderStats();
+
+      audioPlayer.src = file;
+      audioPlayer.play().then(() => {
+        statusBox.textContent = "Now playing: " + file;
+        lastTimeUpdate = audioPlayer.currentTime;
+      }).catch(err => {
+        statusBox.textContent = "Error: " + err.message;
+      });
+    }
+
+    // Track total playtime in seconds
+    audioPlayer.addEventListener("timeupdate", () => {
+      if (!isPlaying) return;
+
+      const currentTime = audioPlayer.currentTime;
+      const delta = currentTime - lastTimeUpdate;
+
+      if (delta > 0 && delta < 1) {
+        totalPlayTimeSeconds += delta;
+      }
+
+      lastTimeUpdate = currentTime;
+      totalTimeDisplay.textContent = Math.floor(totalPlayTimeSeconds);
+    });
+
+    audioPlayer.addEventListener("ended", () => {
+      playNextRandomSong();
+    });
+
+    document.getElementById("startButton").addEventListener("click", () => {
+      if (!isPlaying) {
+        isPlaying = true;
+        playNextRandomSong();
+      }
+    });
+
+    document.getElementById("stopButton").addEventListener("click", () => {
+      isPlaying = false;
+      audioPlayer.pause();
+      audioPlayer.removeAttribute("src");
+      audioPlayer.load();
+      statusBox.textContent = "Stopped.";
+    });
+
+    renderStats();
+  </script>
+</body>
+</html>
+
+[end html]
+
+What this version adds:
+
+Total playtime (in seconds) — accumulates actual playback time continuously.
+
+Play count per MP3 — increments each time a song starts.
+
+Live updating stats table — shows counts for each file.
+
+
+You can extend this further (e.g., per-song playtime, shuffle weighting, persistence via localStorage) if you want.
