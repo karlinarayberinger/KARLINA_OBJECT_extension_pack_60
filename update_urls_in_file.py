@@ -1,7 +1,7 @@
 #########################################################################################
 # file: update_urls_in_file.py
 # type: Python
-# date: 22_MARCH_2026
+# date: 02_APRIL_2026
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -13,7 +13,7 @@ which occurs in thing.html is changed to
 "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/".
 
 Assume that thing.html is the initial version of the HTML file at the following URL:
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_58/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_60.html
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_60.html
 ---------------------------------------------------------------------------------------------------------------------------
 '''
 def replace_in_file(file_name, old_string, new_string):
