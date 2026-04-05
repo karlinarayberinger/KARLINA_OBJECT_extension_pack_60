@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_04april2026_p2.txt
  * type: plain-text
- * date: 04_APRIL_2026
+ * date: 05_APRIL_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -9,6 +9,10 @@
 KARBYTES_CONTENT_UPDATING_RULES
 
 (CMR[N] -> Content Management Rule # N (out of some nonnegative integer no smaller than N))
+
+(KARBYTES -> public web-hosted file collection encompassed by Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com)
+
+(karbytes -> original author of KARBYTES)
 
 * * *
 
