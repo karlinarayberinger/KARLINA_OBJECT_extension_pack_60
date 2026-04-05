@@ -10,15 +10,15 @@ KARBYTES_CONTENT_UPDATING_RULES
 
 (CMR[N] -> Content Management Rule # N (out of some nonnegative integer no smaller than N))
 
-(KARBYTES -> public web-hosted file collection encompassed by Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com)
+(KARBYTES -> the public web-hosted file collection encompassed by Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com)
 
-(karbytes -> original author of KARBYTES)
+(karbytes -> the single original author of (and the single original proprietor of) KARBYTES)
 
 * * *
 
 CMR0: Subsequent changes to KARBYTES always occur within a decade of each other.
 
-If more than ten Earth years have elapsed since the last time KARBYTES was updated, then it can be assumed that KARBYTES is permanently closed to further updates.
+If more than ten Earth years have elapsed since the last time KARBYTES was updated, then it can be assumed that KARBYTES is permanently closed to further updates (according to karbytes’ decree expressed herein KARBYTES).
 
 CMR1: Exactly one person is authorized by KARBYTES to make any changes to KARBYTES.
 
