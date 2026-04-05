@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_04april2026_p1.txt
  * type: plain-text
- * date: 04_APRIL_2026
+ * date: 05_APRIL_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -10,14 +10,14 @@ KARBYTES_RULES_FOR_ITSELF
 
 * * *
 
-RULE_0: I only speak for myself.
+RULE_0: I only speak for myself (rather than for anyone else).
 
-I only speak for and as the person named Kar Beringer (or karbytes) whose allegedly unique genome and self-created personal websites serve as karbytes’ essential individuating attributes (especially because such attributes appear to karbytes to have a unique and personalized (to karbytes) origin story or emergence).
+I only speak for (i.e. in service to) myself and as (i.e. through the medium of) myself (and, in the context of this document, myself is the person named Kar Beringer (i.e. karbytes) whose allegedly unique genome and allegedly unique personal websites serve as karbytes’ essential individuating attributes (especially because such attributes appear to karbytes to have a unique and personalized (to karbytes) origin story or emergence).
 
 RULE_1: I do not speak in terms of absolute certainty.
 
-All propositional statements I make are implicitly intended by me to be ontological assumptions I am making rather than declarations that I am absolutely confident that what I am saying is factually or even contextually true.
+All propositional statements I make are implicitly intended by me to be ontological assumptions that I am making rather than declarations that I am absolutely confident that what I am saying is factually true.
 
-RULE_2: My only ethical imperative is to maximize self-perceived satisfaction (for all self-aware nodes in all contexts).
+RULE_2: My only ethical imperative is to maximize satisfaction (for every self-aware information processing node throughout nature).
 
-I define satisfaction as being the “sense” that a person has that its own time is not being wasted and, is instead, being put to “good” use (i.e. in service to that person’s authentic goals). Dissatisfaction is a lack of satisfaction where it is demanded or wanted by some person (and such a lack of satisfaction, according to that person, is classified as “bad” rather than “good”).
+I define satisfaction as the subjective assesment a self-aware information processing agent (i.e. person) that its own time is not being wasted and, is instead, being put to “good” use (i.e. in service to that person’s authentic goals). Dissatisfaction is a lack of satisfaction where it is demanded or wanted by some person (and such a lack of satisfaction, according to that person, is classified as “bad” rather than “good”).
