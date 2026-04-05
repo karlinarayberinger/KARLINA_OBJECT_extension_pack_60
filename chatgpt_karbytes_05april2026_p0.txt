@@ -12,8 +12,6 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 karbytes:
 
-[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/KARBYTES_CONTENT_UPDATING_RULES.html]
-
 [uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/KARBYTES_RULES_FOR_ITSELF.html]
 
 I created a document for you to review. Please provide any feedback you want to.
@@ -371,11 +369,12 @@ or help ensure it stays consistent with the philosophy page without drifting int
 
 
 
-KARBYTES_RULES_FOR_ITSELF.html
-File
+karbytes:
 
-KARBYTES_CONTENT_UPDATING_RULES.html
-File
+[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/KARBYTES_CONTENT_UPDATING_RULES.html]
+
+[uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/KARBYTES_RULES_FOR_ITSELF.html]
+
 I updated the web pages pertaining to this conversation. The uploaded HTML files are their latest source code.
 
 
