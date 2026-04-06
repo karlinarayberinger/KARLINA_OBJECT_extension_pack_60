@@ -1,0 +1,18 @@
+
+
+STEP_0: Initialize new KARLINA_OBJECT_extension_pack_[N] micro-directory.
+
+Use the following karbytes micro-directory as a template for initializing new KARLINA_OBJECT_extension_pack_[N] micro-directories (where [N] is a placeholder for some nonnegative integer):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/
+
+* * *
+
+STEP_1: Update KARBYTES_CODE_CONTINUES web page(s).
+
+Ensure the following web pages (or web-hosted directories) are updated in conjunction with instantiating each new KARLINA_OBJECT_extension_pack_[N] micro-directory (where [K] is a placeholder for some nonnegative integer):
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_[K]/sub-index_page_A.html
+
+https://karbytesforlifeblog.wordpress.com/karbytes_code_continues/
+
