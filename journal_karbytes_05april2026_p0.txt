@@ -92,6 +92,20 @@ Ensure that the following web pages (or web-hosted directories) are up to date a
 
 * * *
 
+STEP_6: Determine which whole-GitHub-repository zip file names and data sizes in KARBYTES recently changed.
+
+Ensure that the following web pages (or web-hosted directories) are up to date at this temporal point in KARLINA_OBJECT_extension_pack_[N]'s instantiation and editing phase:
+
+-> https://karbytesforlifeblog.wordpress.com/mdisc_karbytes[year]_[year_version]/
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/unlisted_web_page_mdisc_karbytes[year]_[year_version].html
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/mdisc_karbytes[year]_[year_version].txt
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]/main/karbytes[year]_[year_version]_contents.txt
+
+* * *
+
 Additional Notes:
 
 1. KARLINA_OBJECT_extension_pack_61 contains a ChatGPT-generated image (of a "black hole" inside of a transparent glassy cube suspended above the floor of a room whose interior walls resemble graphing paper) and a Sora-generated video of that image in order to give that micro-directory sufficient bulk to retain the same approximate data size (as that data size appears in karbytes[year]_[year_version]_contents.txt and mdisc_karbytes[year]_[year_version].txt (where [year] is a placeholder for some nonnegative integer representing the respective Gregorian calendar year and where [year_version] is a placeholder for some nonnegative integer representing the respective version of karbytes content which is created and/or refined during that year)) between relatively small (in data size) updates to that micro-directory.
