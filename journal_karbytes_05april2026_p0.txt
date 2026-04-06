@@ -172,7 +172,7 @@ The home page (i.e. START_PAGE) of Karlina Object dot WordPress dot Com lists th
 
 https://karlinaobject.wordpress.com/
 
-The home page (i.e. START_PAGE) of Karbytes For Life Blog dot WordPress dot Com lists nineteen top-level web pages within that website (including that START_PAGE as PAGE_0) and is located at the following Uniform Resource Locator:
+The home page (i.e. START_PAGE) of Karbytes For Life Blog dot WordPress dot Com lists twenty top-level web pages within that website (including that START_PAGE as PAGE_0) and is located at the following Uniform Resource Locator:
 
 https://karbytesforlifeblog.wordpress.com/
 
