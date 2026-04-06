@@ -36,12 +36,28 @@ Additional Notes:
 
 1. KARLINA_OBJECT_extension_pack_61 contains a ChatGPT-generated image (of a "black hole" inside of a transparent glassy cube suspended above the floor of a room whose interior walls resemble graphing paper) and a Sora-generated video of that image in order to give that micro-directory sufficient bulk to retain the same approximate data size (as that data size appears in karbytes[year]_[year_version]_contents.txt and mdisc_karbytes[year]_[year_version].txt (where [year] is a placeholder for some nonnegative integer representing the respective Gregorian calendar year and where [year_version] is a placeholder for some nonnegative integer representing the respective version of karbytes content which is created and/or refined during that year)) between relatively small (in data size) updates to that micro-directory.
 
-(If a micro-directory contains less than a megabyte of data in total, then the data size of that micro-directory's respective GitHub repository zip file download is represented by the Linux operating system in terms of kilobytes rather than in megabytes (which means that the file size of that GitHub repository zip file is more likely to change any time relatively tiny incremental updates to the respective GitHub repository (and overall micro-directory) are made). Hence, adding the aforementioned media files adds several megabytes of data to a micro-directory and prevents that micro-directory's data size from having to be updated "too frequently" to be cost-effective (in terms of (a software developer's) time management, (a software developer's) attention span allocation, and (information technology) hardware usage)).
+If a micro-directory contains less than a megabyte of data in total, then the data size of that micro-directory's respective GitHub repository zip file download is represented by the Linux operating system in terms of kilobytes rather than in megabytes (which means that the file size of that GitHub repository zip file is more likely to change any time relatively tiny incremental updates to the respective GitHub repository (and overall micro-directory) are made). Hence, adding the aforementioned media files adds several megabytes of data to a micro-directory and prevents that micro-directory's data size from having to be updated "too frequently" to be cost-effective (in terms of (a software developer's) time management, (a software developer's) attention span allocation, and (information technology) hardware usage).
+
+~ ~ ~
 
 2. A micro-directory (in the context of the KARBYTES public web-hosted file collection (which encompasses the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com)) is a sub-component of KARBYTES which includes (a) exactly one public GitHub repository owned by the GitHub user account named @karlinarayberinger and (b) exactly one micro-directory web page which is listed in the larger macro-directory part of KARBYTES at the following Uniform Resource Locator:
 
 https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/
 
+~ ~ ~
+
 3. Each micro-directory is also referenced by websites which are external to KARBYTES and which are hosted by the GitHub user account named @karbytessupporter such that the Uniform Resource Locator to each file in that micro-directory is referenced by that external website cluster. The "entry point" to that external website cluster is at the following Uniform Resource Locator:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches/
+
+Each sector of that external website cluster which focuses on exactly one KARBYTES micro-directory contains a hyperlink to the "entry point" to that particular micro-directory as the first hyperlink listed in that sector. 
+
+For example, the following Uniform Resource Locator is the "entry point" for the @karbytessupporter-owned external website cluster focused on the KARBYTES micro-directory named KARLINA_OBJECT_extension_pack_61:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_64.html
+
+Notice that the first hyperlink listed on that KARBYTES-external web page links to the "entry point" (WordPress dot Com) web page of the respective micro-directory:
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/
+
+
