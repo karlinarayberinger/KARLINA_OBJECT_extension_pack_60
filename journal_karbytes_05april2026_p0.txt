@@ -44,6 +44,20 @@ Ensure the following web pages (or web-hosted directories) are updated in conjun
 
 * * *
 
+STEP_3: Determine whether or not SOFTWARE_ENGINEERING_PORTFOLIO web page(s) need to be updated.
+
+Ensure that the following web pages (or web-hosted directories) are up to date at this temporal point in KARLINA_OBJECT_extension_pack_[N]'s instantiation and editing phase:
+
+-> https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/
+
+-> https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG/main/P15_SOFTWARE_ENGINEERING_PORTFOLIO.html
+
+-> https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/
+
+-> 
+
+* * *
+
 Additional Notes:
 
 1. KARLINA_OBJECT_extension_pack_61 contains a ChatGPT-generated image (of a "black hole" inside of a transparent glassy cube suspended above the floor of a room whose interior walls resemble graphing paper) and a Sora-generated video of that image in order to give that micro-directory sufficient bulk to retain the same approximate data size (as that data size appears in karbytes[year]_[year_version]_contents.txt and mdisc_karbytes[year]_[year_version].txt (where [year] is a placeholder for some nonnegative integer representing the respective Gregorian calendar year and where [year_version] is a placeholder for some nonnegative integer representing the respective version of karbytes content which is created and/or refined during that year)) between relatively small (in data size) updates to that micro-directory.
@@ -73,5 +87,17 @@ https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_bat
 Notice that the first hyperlink listed on that KARBYTES-external web page links to the "entry point" (WordPress dot Com) web page of the respective micro-directory:
 
 https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/
+
+~ ~ ~
+
+4. In this document, it is assumed that the home page top-level web pages directory of the website named Karlina Object dot WordPress dot Com and of the website named Karbytes For Life Blog dot WordPress dot Com are each fixed (i.e. closed to future changes). 
+
+The home page (i.e. START_PAGE) of Karlina Object dot WordPress dot Com lists thirty top-level web pages within that website (including that START_PAGE as PAGE_0) and is located at the following Uniform Resource Locator:
+
+https://karlinaobject.wordpress.com/
+
+The home page (i.e. START_PAGE) of Karbytes For Life Blog dot WordPress dot Com lists nineteen top-level web pages within that website (including that START_PAGE as PAGE_0) and is located at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/
 
 
