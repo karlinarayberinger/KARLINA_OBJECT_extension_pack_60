@@ -8,8 +8,6 @@
 
 EXPANDING_KARBYTES_BEST_PRACTICES
 
-(IMPORTANT: Be sure to use the latest version of the files mentioned in this document which are revised across multiple KARLINA_OBJECT_extension_pack_[N] micro-directories rather than the latest version of those files in KARLINA_OBJECT_extension_pack_61).
-
 * * *
 
 STEP_0: Initialize new KARLINA_OBJECT_extension_pack_[N] micro-directory.
@@ -17,6 +15,8 @@ STEP_0: Initialize new KARLINA_OBJECT_extension_pack_[N] micro-directory.
 Use the following karbytes micro-directory as a template for initializing new KARLINA_OBJECT_extension_pack_[N] micro-directories (where [N] is a placeholder for some nonnegative integer):
 
 -> https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/
+
+(IMPORTANT: Be sure to use the latest version of the files mentioned in this document which are revised across multiple KARLINA_OBJECT_extension_pack_[N] micro-directories rather than the latest version of those files in KARLINA_OBJECT_extension_pack_61)!!!
 
 * * *
 
